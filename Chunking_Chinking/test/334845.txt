@@ -1,0 +1,129 @@
+Topic&AuthorInfor
+7
+7139 
+Guess the weekend low (16-17/11/2013) 0.1bitcoin prize
+freethink2013
+694
+224
+April 12,  2013
+November 15, 2013, 10:13:10 PM
+freethink2013	224	November 15, 2013, 10:13:10 PM	rules:{ChangeLine}1. low time period refers to 16th 00:00:01 to 17th 23:59:59 and the lowest price at gox in that period.{ChangeLine}2. Only one entry per person and no edits to your post except within the forum defined 10 minutes{ChangeLine}3. In the case of two identical predictions the first posted will be accepted.{ChangeLine}4. Predictions after 17th 06:00:00 are invalid.{ChangeLine}5. All times are gmt.{ChangeLine}6. Predictions to have 4 decimal places{ChangeLine}7. In the case of two predictions one higher, one lower but equidistant from the low the lower will be the winner.{ChangeLine}8. There's a good chance I've missed some flaw in this. If that is the case I'm going to make a judgement call and apologise in advance.{ChangeLine}9. No matter what someone will be sent 0.1 btc on monday.{ChangeLine}{ChangeLine}Post your guess then on the next line your bitcoin address. You can chat in this thread but to enter the comp you need a post with nothing but you guess followed by your address.{ChangeLine}{ChangeLine}e.g.{ChangeLine}Quote382.0000{ChangeLine}1L3k39JdMufhbeX1fxGf5oiN72ieoZM6Gj{ChangeLine}NOT{ChangeLine}{ChangeLine}Quoteoh hai i have a few questions but i guess around 500 and my address is 1L3k39JdMufhbeX1fxGf5oiN72ieoZM6Gj plus do you know where i can get litecoin.{ChangeLine}Have fun.{ChangeLine}{ChangeLine}{ChangeLine}{ChangeLine}{ChangeLine}
+flagel8	201	November 15, 2013, 10:30:54 PM	So why guess anything before 17th 06:00:00? You will have a lot more information by then. {ChangeLine}{ChangeLine}EDIT: What about edits?
+im3w1l	280	November 15, 2013, 10:32:21 PM	Quote from: freethink2013 on November 15, 2013, 10:25:31 PMyou guys who aren't doing 4 decimal places could be disqualified. Edit your posts while you can{ChangeLine}{ChangeLine}same with adding smilies etc. the rules are clear.{ChangeLine}{ChangeLine}An entry is the price followed by your address. Nothing more.{ChangeLine}{ChangeLine}keep the money if I win and go get laid.
+fleabag	98	November 15, 2013, 10:33:54 PM	Wait... We can make our guess 30 hours into the weekend? ;
+lucaspm98	280	November 15, 2013, 10:34:23 PM	Quote from: fleabag on November 15, 2013, 10:33:54 PMQuote from: freethink2013 on November 15, 2013, 10:25:31 PMyou guys who aren't doing 4 decimal places could be disqualified. Edit your posts while you can{ChangeLine}{ChangeLine}same with adding smilies etc. the rules are clear.{ChangeLine}{ChangeLine}An entry is the price followed by your address. Nothing more.{ChangeLine}{ChangeLine}keep the money if I win and go get laid.{ChangeLine}{ChangeLine}I can get laid at home and I've no interest in cheating or paying for sex. I'll leave that to the likes of you.
+freethink2013	224	November 15, 2013, 10:40:15 PM	Quote from: lucaspm98 on November 15, 2013, 10:34:23 PMWait... We can make our guess 30 hours into the weekend?; {ChangeLine}{ChangeLine}Yes. Probably if I did it again I'd allow edits up until that point but it makes it a real hassle to check. This way if I see a post has been edited I can dismiss it pretty easily.
+freethink2013	224	November 15, 2013, 11:09:02 PM	Quote from: im3w1l on November 15, 2013, 10:32:21 PMSo why guess anything before 17th 06:00:00? You will have a lot more information by then. {ChangeLine}{ChangeLine}EDIT: What about edits?{ChangeLine}2. Only one entry per person and no edits to your post except within the forum defined 10 minutes{ChangeLine}{ChangeLine}If you want to hold on until 5:59am on sunday that's within the rules.{ChangeLine}
+amadeo	26	November 15, 2013, 11:12:10 PM	374.0000{ChangeLine}15fHkg9kaKrjau9YdsPx2KTgbBCseGkvqd
+BarkinTree	204	November 15, 2013, 11:16:17 PM	well, as long as it's allowed, i think i'll wait to see how today's madness plays out a little bit. and tomorrow's..... bitcoin is crazy! a lot can happen over the next couple days. might as well wait!;
+Miz4r	1232	November 15, 2013, 11:24:44 PM	For which exchange should we guess the weekend low? {ChangeLine}{ChangeLine}[edit]Never mind didn't see Gox in the OP's post somehow...[/edit]
+hyphymikey	784	November 15, 2013, 11:29:46 PM	366{ChangeLine}{ChangeLine}1HYPHYk2P3UeCfUbDFKMVH42wBwdG52jMu
+EntropyExtropy	45	November 15, 2013, 11:38:34 PM	405.6755 187NL41YVDSCF8Hgw47pNXEFopwHmc1SVN
+freethink2013	224	November 15, 2013, 11:41:01 PM	Quote from: BarkinTree on November 15, 2013, 11:16:17 PMwell, as long as it's allowed, i think i'll wait to see how today's madness plays out a little bit. bitcoin is crazy!; {ChangeLine}{ChangeLine}totally allowed. last guess is whatever I posted in the op. gmt though and no editing your post.
+bnjmnkent	168	November 15, 2013, 11:45:33 PM	392.5937{ChangeLine}1GPgEKYw5i7N2gF7XkZqw3gVCWrgWr4N9L{ChangeLine}
+liberty90	88	November 15, 2013, 11:48:56 PM	425.0000{ChangeLine}15oSR7bYNep3bTtVCh5wuXhQnG6qvDvHWY 
+rikigst	46	November 15, 2013, 11:52:32 PM	400.0000{ChangeLine}1GaspaEw1VcEwiNrWUAguNPqounjR2xT55
+freethink2013	224	November 16, 2013, 12:12:29 AM	just another reminder about this in the op{ChangeLine}{ChangeLine}6. Predictions to have 4 decimal places
+PumpkinCoin	23	November 16, 2013, 12:18:03 AM	397.01{ChangeLine}1xoSwGXosrHArUtepkJiL8YUdpS1XTtL7{ChangeLine}{ChangeLine}where can I get Litecoin?
+freethink2013	224	November 16, 2013, 12:20:48 AM	Quote from: PumpkinCoin on November 16, 2013, 12:18:03 AM397.01{ChangeLine}1xoSwGXosrHArUtepkJiL8YUdpS1XTtL7{ChangeLine}{ChangeLine}where can I get Litecoin?{ChangeLine}{ChangeLine}Imagine you 'won' and were disqualified over "where can I get Litecoin?" also that's 2 decimal places, the rules say 4
+macsga	1470	November 16, 2013, 12:22:08 AM	420.0000{ChangeLine}{ChangeLine}1Mt2DtYwYGMUnPJJW9FNU7TdkCuvNguEXm
+morningsun	6	November 16, 2013, 12:27:43 AM	372.3718{ChangeLine}1Hw5DKutBQrwCyHT1T3tvP4hDZdnc5wVQQ
+Chalkbot	894	November 16, 2013, 12:27:59 AM	429.9900{ChangeLine}1ACPpCR3fF6NJry8x8k6d34nFo3Rw3JKSq
+PumpkinCoin	23	November 16, 2013, 12:31:15 AM	Quote from: freethink2013 on November 16, 2013, 12:20:48 AMQuote from: PumpkinCoin on November 16, 2013, 12:18:03 AM397.01{ChangeLine}1xoSwGXosrHArUtepkJiL8YUdpS1XTtL7{ChangeLine}{ChangeLine}{ChangeLine}{ChangeLine}
+xephyr	285	November 16, 2013, 12:35:16 AM	351.2200{ChangeLine}1MPN7Hw3z3EsvKrtS32xCHzh2CkiabHeBQ
+the_sunship	230	November 16, 2013, 12:40:30 AM	345.6789{ChangeLine}{ChangeLine}1CGsm9Si7EYoAYXai2aqg7Pydky97xqHAw{ChangeLine}{ChangeLine}
+phlogistonq	159	November 16, 2013, 12:48:58 AM	Quote from: im3w1l on November 15, 2013, 10:32:21 PMSo why guess anything before 17th 06:00:00? You will have a lot more information by then. {ChangeLine}{ChangeLine}Quote In the case of two identical predictions the first posted will be accepted.{ChangeLine};
+nomnomnom	313	November 16, 2013, 12:50:52 AM	393.78{ChangeLine}1EE7Xi67cDXzyxLadQTqicBg6PzDQSnBD1
+paratox	124	November 16, 2013, 12:53:39 AM	411.2521{ChangeLine}17SSwnWq3avN56CgCpET2p8AZtm8F6GEJj
+nlbit	13	November 16, 2013, 01:05:02 AM	428.0000{ChangeLine}{ChangeLine}1JX3vbBGZNTDzbyXPcxBep43TYSW2YqyzD
+EvilPanda	658	November 16, 2013, 01:05:43 AM	495.20{ChangeLine}1FPxqGkuvFiqaQv7ZaoUsbREvrZBPTdrjk
+callezetter	30	November 16, 2013, 01:20:06 AM	This seems like an excellent way to collect bitcoinadresses, bulls and bears together with forumhandles {ChangeLine}{ChangeLine}Great idea!
+digit	1470	November 16, 2013, 01:24:03 AM	315.555{ChangeLine}1DigitwteXwFcRAaWpVDRp6eKqzC6y9tgm 
+fleabag	98	November 16, 2013, 01:29:52 AM	Quote from: freethink2013 on November 15, 2013, 10:40:15 PMQuote from: fleabag on November 15, 2013, 10:33:54 PMQuote from: freethink2013 on November 15, 2013, 10:25:31 PMyou guys who aren't doing 4 decimal places could be disqualified. Edit your posts while you can{ChangeLine}{ChangeLine}same with adding smilies etc. the rules are clear.{ChangeLine}{ChangeLine}An entry is the price followed by your address. Nothing more.{ChangeLine}{ChangeLine}keep the money if I win and go get laid.{ChangeLine}{ChangeLine}I can get laid at home and I've no interest in cheating or paying for sex. I'll leave that to the likes of you.{ChangeLine}{ChangeLine}rubber dolls dont count
+christop	84	November 16, 2013, 01:47:20 AM	402.7183{ChangeLine}1sockzDWcF8mrC59CgiN7HAJm6xL7TiRW{ChangeLine}
+Peter R	1120	November 16, 2013, 01:53:38 AM	314.1592{ChangeLine}1BitcoinEaterAddressDontSendf59kuE
+JustAnotherSheep	239	November 16, 2013, 01:54:38 AM	334.0005{ChangeLine}1Mnb9Yx5XFJn7FFJEpHHUWko7WNUddtzfB
+snakebit	98	November 16, 2013, 02:23:23 AM	445.0000{ChangeLine}1Lqo13e7KLB1nAQM5unDYdpCDPB7Buq7ut
+Odrec	98	November 16, 2013, 02:27:25 AM	383.2564{ChangeLine}{ChangeLine}1GQ2ahehDx8ULX3y6CF3oKq51DFUdrkiHX
+john_doe	133	November 16, 2013, 03:01:57 AM	350.3141{ChangeLine}1D8aTdfBDYeKbyRTz8sBk56pYzGJCRMHGg
+nesevis	35	November 16, 2013, 03:16:26 AM	406.1337{ChangeLine}13c6oeKgyQ3F3MrCRkLgdJ6fPQXj1D5XW6
+BitchicksHusband	378	November 16, 2013, 03:58:15 AM	436.0000{ChangeLine}1PrMAN7arknzMMk5aofnsHdQQATVdEHYJR
+BitChick	1134	November 16, 2013, 04:03:07 AM	378.0000{ChangeLine}1vUYBu3qmq3r4p4Tev14kDvFUe17F9zr9{ChangeLine}
+Sindelar1938	490	November 16, 2013, 04:17:36 AM	392.37
+Cryddit	854	November 16, 2013, 04:25:28 AM	$411.2 USD/BTC{ChangeLine}1C7hWrfhyv31BZA13B16pTXCuWRM1uT6Ny{ChangeLine}{ChangeLine}
+mvidetto	462	November 16, 2013, 05:09:36 AM	I'm thinking $361.4520.
+btcapparel	392	November 16, 2013, 05:14:14 AM	392{ChangeLine}1HJ2AX7H493RRC2PDn2tbpsfE9DcB45ner
+hieroglyph	70	November 16, 2013, 05:18:03 AM	$412.0111{ChangeLine}1G34xfPNWitTw295Kmftw5Qmahw9wXAY2P
+JimboToronto	1764	November 16, 2013, 02:07:37 PM	442{ChangeLine}{ChangeLine}1Bho4gdW1RvuWqzVx1ZauULNGjKbCjXGtv
+davider	65	November 16, 2013, 02:26:21 PM	382.012{ChangeLine}1ARcNAwVitRKyRv97cvRkG7kaEbs4ZP7Un
+bitcon	1288	November 16, 2013, 02:28:58 PM	433.0000{ChangeLine}1KNYHtKqtyDdoCjRkiEqDSD6pnjEsrAymC
+tarmi	1078	November 16, 2013, 03:01:18 PM	373.8452{ChangeLine}{ChangeLine}16LqunhXhLduUzS96m7nNrhSydSbbUcqXk
+iourzzz	94	November 16, 2013, 03:46:10 PM	$427.4567{ChangeLine}1EmHrbvHu8eCn9wZKFApJEChqosKrYL4Bd
+piramida	1120	November 16, 2013, 03:50:59 PM	223.1415$ (Gox)
+Tzupy	1456	November 16, 2013, 03:59:29 PM	279.2569{ChangeLine}1EPmnpFGSHLkzeyCCJjqusxchdsujchsd
+vervolioman	493	November 16, 2013, 04:19:56 PM	timezone?
+bullioner	155	November 16, 2013, 04:23:50 PM	407.5{ChangeLine}{ChangeLine}1JXZKJjhDfXpo4qGsfn2F27eCqcDZrwwgE{ChangeLine}
+matt608	952	November 16, 2013, 04:27:50 PM	388.2456{ChangeLine}tFcpJES13BHL... keep your coins!
+Chief Satangkai	54	November 16, 2013, 04:36:30 PM	406.8011{ChangeLine}1FFFmwGzFfVZZcM6U8auJKYBEVrnXoxQmL
+massivebitman	224	November 16, 2013, 04:36:51 PM	397.1462{ChangeLine}1H2qmJ9CUowmmZVKXz1SkbKGKm24zWB6aZ
+gongomanny	305	November 16, 2013, 04:54:34 PM	450{ChangeLine}1PjpMrfQXEWgN6b27G3P5NW6KnLJyS73BU
+uk1	490	November 16, 2013, 04:55:58 PM	433.0001{ChangeLine}1AxL14mzYbgaKZW2854jnbAYRtofG1EVwd
+cubicdissection	90	November 16, 2013, 05:10:19 PM	406.8651{ChangeLine}15BEtbTndXxPcsncakNbiazeYagXJDQkNb
+OC19850520	190	November 16, 2013, 05:20:17 PM	428.00000{ChangeLine}1PqKKJZsD7ZhP7YZc7DGbTvHnVCxNpFHep
+adamstgBit	1904	November 16, 2013, 05:26:42 PM	396{ChangeLine}1NDcWpNH5v3PS5cdJEaZaHMhnuCQhM1wYv
+Bitventurer	459	November 16, 2013, 05:50:15 PM	421.2219{ChangeLine}{ChangeLine}169y3eRYiopcWt5yJnrXgPjNsfEFNT4uCw
+duravello	127	November 16, 2013, 06:07:02 PM	329.6988{ChangeLine}1PrTTjikKsmkyxAnpYxhbvke9AtBJzw9XD
+ablewasiereisawelba	133	November 16, 2013, 06:14:06 PM	429.9999{ChangeLine}1DSjaCQGbWxZ1f1a5RcwPhYBQPLNXHsw6R
+Bitcopia	715	November 16, 2013, 06:25:52 PM	441.4450{ChangeLine}1APVb1emdtvd53BNw9wNEbY4m8nqdGmTM2
+XXthetimeisnowXX	252	November 16, 2013, 06:27:31 PM	442.0048{ChangeLine}163iJVdt7iJKTWoZwUD1wDN94ouKi5bhmy{ChangeLine}{ChangeLine}{ChangeLine}{ChangeLine}{ChangeLine}im way off haha
+imamanandyou	147	November 16, 2013, 06:36:26 PM	197.4455{ChangeLine}1Q4wLTRcnW7qhD2p1bcmmpLJ8JqrsUGksJ
+DodoB	504	November 16, 2013, 07:46:34 PM	441.1{ChangeLine}1LGqfqsNnwYtb3NbPAEXEmy5HH95DVd31r
+Rluner	126	November 16, 2013, 07:51:56 PM	428.01170{ChangeLine}1easywaytocollectaddressfromusersiwisheveryoneallthebestintheseforumshavefun
+AndrewWilliams	182	November 16, 2013, 07:57:34 PM	14vkvce2HKVjH27vUcxkwGzjWbiGASDnoh{ChangeLine}{ChangeLine}{ChangeLine}407 BTC
+specgamer	252	November 16, 2013, 08:06:40 PM	425.00000{ChangeLine}1CD6fzRYoz4mErnZKwGPV3oozVJZKpvLrC
+bitcoin carpenter	1414	November 16, 2013, 08:11:15 PM	442.0000{ChangeLine}13VinSBgDcG4JJtWiKPkoBD3J1o7BGSK8D
+sukiho	523	November 16, 2013, 08:34:36 PM	453.7452{ChangeLine}{ChangeLine}1GMwrewYLNyNjjYwyV754tH3PDyP3Q6619
+Pockets	41	November 16, 2013, 08:36:36 PM	429.7777{ChangeLine}1FEoAYKkpoz41nXcnSBuMjTYb1VZb8D44E
+koopa	61	November 16, 2013, 08:39:37 PM	432.9999{ChangeLine}14Jn7sQSBMapXUD5TKMHKdqe1of9JtNZdQ
+elebit	438	November 16, 2013, 10:13:47 PM	433.0010{ChangeLine}1MNYN6d3YXb8YLew2hXYZeGymwjELgRNPJ
+freethink2013	224	November 16, 2013, 10:17:55 PM	Quote from: Rluner on November 16, 2013, 07:51:56 PM428.01170{ChangeLine}1easywaytocollectaddressfromusersiwisheveryoneallthebestintheseforumshavefun{ChangeLine}{ChangeLine}Could I not just use the publically available blockchain?
+fleabag	98	November 16, 2013, 10:33:00 PM	Quote from: freethink2013 on November 15, 2013, 10:40:15 PMQuote from: fleabag on November 15, 2013, 10:33:54 PMQuote from: freethink2013 on November 15, 2013, 10:25:31 PMyou guys who aren't doing 4 decimal places could be disqualified. Edit your posts while you can{ChangeLine}{ChangeLine}same with adding smilies etc. the rules are clear.{ChangeLine}{ChangeLine}An entry is the price followed by your address. Nothing more.{ChangeLine}{ChangeLine}keep the money if I win and go get laid.{ChangeLine}{ChangeLine}I can get laid at home and I've no interest in cheating or paying for sex. I'll leave that to the likes of you.{ChangeLine}{ChangeLine}hey sorry, i was out of line yesterday. you are doing a nice thing.
+Miz4r	1232	November 16, 2013, 11:43:19 PM	So what timezone is being used here? GMT?
+MargaretsDream	163	November 16, 2013, 11:48:30 PM	414.6699{ChangeLine}1LCpnDVdM8BHYgNHwW7AQopYZRrUjzUeyD
+dr blowfin	179	November 16, 2013, 11:54:51 PM	428.0117{ChangeLine}1HeMoSR13Kp7W7zDAVcafx9dKLDDyLc1Ny
+theonewhowaskazu	448	November 16, 2013, 11:58:26 PM	461.1840{ChangeLine}17bLLPvrRNeTkjx5gZnKB2J5iS2V5WkXKc
+crazy_rabbit	1176	November 16, 2013, 11:59:37 PM	somebody is sure using this weekend to pick up coins. 
+torry28	1372	November 17, 2013, 12:08:32 AM	420.2019{ChangeLine}173a1LZwA3nNDGzRyT6Ydx598WE66TnAk1
+cfrm	171	November 17, 2013, 12:13:50 AM	428.0118{ChangeLine}1A8M81Qo9B2PRRy9npbzhPP6hJpzmQPWLU
+freethink2013	224	November 17, 2013, 12:14:37 AM	Quote from: fleabag on November 16, 2013, 10:33:00 PMQuote from: freethink2013 on November 15, 2013, 10:40:15 PMQuote from: fleabag on November 15, 2013, 10:33:54 PMQuote from: freethink2013 on November 15, 2013, 10:25:31 PMyou guys who aren't doing 4 decimal places could be disqualified. Edit your posts while you can{ChangeLine}{ChangeLine}same with adding smilies etc. the rules are clear.{ChangeLine}{ChangeLine}An entry is the price followed by your address. Nothing more.{ChangeLine}{ChangeLine}keep the money if I win and go get laid.{ChangeLine}{ChangeLine}I can get laid at home and I've no interest in cheating or paying for sex. I'll leave that to the likes of you.{ChangeLine}{ChangeLine}hey sorry, i was out of line yesterday. you are doing a nice thing.{ChangeLine}you'd have good rep, if we had rep here. I appreciate the comment. Thanks
+stromma44	952	November 17, 2013, 12:29:47 AM	410.4105{ChangeLine}1P3A3GLXFYJvmbZsudbAD1Fc6dyKquwb7S
+stromma44	952	November 17, 2013, 12:35:24 AM	So best would be post the lowest price between 16th 00:00:01 to 17th 06:00:00 right before 17th 06:00:00 and hope no lower price anymore; {ChangeLine}{ChangeLine}weird
+AlexM	112	November 17, 2013, 12:36:02 AM	427.9567{ChangeLine}114VUbWrReDD8o2zZ7aKzfKyquLtbktKVK
+Findus	131	November 17, 2013, 12:40:34 AM	430.9921{ChangeLine}14NtjAykR7SyuCpmCgQBsF1GiAj61dvNeb
+ferda2mx	124	November 17, 2013, 12:53:50 AM	385.4547{ChangeLine}15d3f1SnWb94ZwNjD2CjcstudYrJh9y6BY
+Rupture	182	November 17, 2013, 02:20:25 AM	457.8934{ChangeLine}1Hzziu28Zp3et9hdTSRZdewgqsYsEuhfk6
+Xer0	840	November 17, 2013, 02:52:17 AM	428.01172{ChangeLine}1Fm8XdPvGzKbfuHrBrsK8d7ZDLvCCM1WWc
+lucaspm98	280	November 17, 2013, 03:24:40 AM	453.7453{ChangeLine}1EdmiAzH8pAeFSw1N5nviaCLzfNgQZ1gW5
+lucaspm98	280	November 17, 2013, 03:25:38 AM	Quote from: ferda2mx on November 17, 2013, 12:53:50 AM385.4547{ChangeLine}15d3f1SnWb94ZwNjD2CjcstudYrJh9y6BY{ChangeLine}Its already been way below that...; 
+mskryxz	427	November 17, 2013, 04:56:47 AM	452.1111{ChangeLine}{ChangeLine}1NZYW2rJnzz7ZGRQi8irYK7EkWDkW8G674
+kireinaha	350	November 17, 2013, 06:57:54 AM	426.1710{ChangeLine}{ChangeLine}Donate my winnings to charity.
+TheFacilitator	7	November 17, 2013, 07:13:44 AM	428.0418{ChangeLine}12XE4JLp2XipLi8W1MFjZzdMJDo9Uee5Rz
+majorX	269	November 17, 2013, 08:34:53 AM	325.1257{ChangeLine}12JGsJEmXu6QTzSfiq12JGsJE 12JGsJEmXu6QTzSfiqcwtsDy 2QSZtQnssJm12JGsJEmXu6Q TzSfiqcwtsDy2QSZtQnssJXu 6QTzSfiqcwtsDy2QSZt12JG1 2JGsJEmXu6QTzSfiqcwtsDy2 QSZtQnssJsJEmXu6QTzSfiqc wtsDy2QSZtQns sJQnss Jcwts; Dy2QS ZtQnssJ{ChangeLine}{ChangeLine}/ i don't need this anymore {ChangeLine}thank you
+Le Happy Merchant	634	November 17, 2013, 11:58:58 AM	457.00{ChangeLine}1Cw8t6pwumma2qHnDVQBfwfUnXRuq5Hu9B
+Rluner	126	November 17, 2013, 04:48:19 PM	Quote from: freethink2013 on November 16, 2013, 10:17:55 PMQuote from: Rluner on November 16, 2013, 07:51:56 PM428.01170{ChangeLine}1easywaytocollectaddressfromusersiwisheveryoneallthebestintheseforumshavefun{ChangeLine}{ChangeLine}Could I not just use the publically available blockchain?{ChangeLine}{ChangeLine}Yes if it contains your user name.........
+tondaS	122	November 17, 2013, 05:52:00 PM	177.0014{ChangeLine}1BSvidPe2P4BbDEjs4mKvstQUTZBHgo2Ua
+leancuisine	980	November 17, 2013, 06:38:27 PM	416.9410{ChangeLine}1Huy1jcK2jCdRvZAV827rxCLXeAWxKksMU
+farfiman	1451	November 17, 2013, 08:16:04 PM	433.0000{ChangeLine}1FarfikjphhRBV22XqAGpsLvf1GYyHT39q
+tarmi	1078	November 18, 2013, 10:47:30 AM	who won?
+proudhon	1274	November 18, 2013, 10:49:54 AM	Yeah, what was the weekend low?
+YoYa	760	November 18, 2013, 11:21:00 AM	Quote from: proudhon on November 18, 2013, 10:49:54 AMYeah, what was the weekend low?{ChangeLine}{ChangeLine}Waking up on the beach with a killer hangover, a 13" dildo and a dead hooker.
+freethink2013	224	November 18, 2013, 12:32:06 PM	I think 437 was the weekend low. Am I right?{ChangeLine}{ChangeLine}1. low time period refers to 16th 00:00:01 to 17th 23:59:59 and the lowest price at gox in that period. (gmt){ChangeLine}{ChangeLine}{ChangeLine}Can some chart wiz confirm?
+tarmi	1078	November 18, 2013, 12:44:37 PM	Quote from: freethink2013 on November 18, 2013, 12:32:06 PMI think 437 was the weekend low. Am I right?{ChangeLine}{ChangeLine}1. low time period refers to 16th 00:00:01 to 17th 23:59:59 and the lowest price at gox in that period. (gmt){ChangeLine}{ChangeLine}{ChangeLine}Can some chart wiz confirm?{ChangeLine}{ChangeLine}nope. {ChangeLine}{ChangeLine}http://bitcoincharts.com/charts/mtgoxUSD#rg5zig1-minzczsg2013-11-17zeg2013-11-18ztgSzm1g10zm2g25zv{ChangeLine}{ChangeLine}{ChangeLine}{ChangeLine}{ChangeLine}428.01172
+proudhon	1274	November 18, 2013, 12:45:56 PM	Quote from: freethink2013 on November 18, 2013, 12:32:06 PMI think 437 was the weekend low. Am I right?{ChangeLine}{ChangeLine}1. low time period refers to 16th 00:00:01 to 17th 23:59:59 and the lowest price at gox in that period. (gmt){ChangeLine}{ChangeLine}{ChangeLine}Can some chart wiz confirm?{ChangeLine}{ChangeLine}Yeah, that looks right.; So the weekend low, was at the very start of the trading range for the weekend.; After the start, every other point in time had a higher price.
+BitchicksHusband	378	November 18, 2013, 12:50:13 PM	Quote from: proudhon on November 18, 2013, 12:45:56 PMQuote from: freethink2013 on November 18, 2013, 12:32:06 PMI think 437 was the weekend low. Am I right?{ChangeLine}{ChangeLine}1. low time period refers to 16th 00:00:01 to 17th 23:59:59 and the lowest price at gox in that period. (gmt){ChangeLine}{ChangeLine}{ChangeLine}Can some chart wiz confirm?{ChangeLine}{ChangeLine}Yeah, that looks right.; So the weekend low, was at the very start of the trading range for the weekend.; After the start, every other point in time had a higher price.{ChangeLine}{ChangeLine}I had $436.; Was anyone closer than that?
+tarmi	1078	November 18, 2013, 12:56:50 PM	Quote from: freethink2013 on November 18, 2013, 12:55:14 PM{ChangeLine}I'll check the thread again in a bit but provisionally I think this is the winning post{ChangeLine}{ChangeLine}Chalkbot{ChangeLine}429.9900 {ChangeLine}1ACPpCR3fF6NJry8x8k6d34nFo3Rw3JKSq{ChangeLine}https://bitcointalk.org/index.php?topic=334845.msg3597279#msg3597279{ChangeLine}{ChangeLine}{ChangeLine}{ChangeLine}{ChangeLine}here is the winner: {ChangeLine}{ChangeLine}{ChangeLine}Quote from: Xer0 on November 17, 2013, 02:52:17 AM428.01172{ChangeLine}1Fm8XdPvGzKbfuHrBrsK8d7ZDLvCCM1WWc{ChangeLine}
+freethink2013	224	November 18, 2013, 12:58:58 PM	I'd be lost without tarmi! Cheers.{ChangeLine}{ChangeLine}Any objections from anyone? I'd note I'm very hungover and can hardly see straight.
+dr blowfin	179	November 18, 2013, 01:06:09 PM	How about...{ChangeLine}{ChangeLine}Quote from: dr blowfin on November 16, 2013, 11:54:51 PM428.0117{ChangeLine}1HeMoSR13Kp7W7zDAVcafx9dKLDDyLc1Ny{ChangeLine}
+BitchicksHusband	378	November 18, 2013, 01:12:18 PM	I see.; You can do "Load Raw Data" below the chart which shows the correct answer.; Dr Blowfin should be the winner, since he was first and had 4 decimal places as specified in the OP.{ChangeLine}{ChangeLine}Congratulations, DB!
+freethink2013	224	November 18, 2013, 01:32:32 PM	Quote from: dr blowfin on November 18, 2013, 01:06:09 PMHow about...{ChangeLine}{ChangeLine}Quote from: dr blowfin on November 16, 2013, 11:54:51 PM428.0117{ChangeLine}1HeMoSR13Kp7W7zDAVcafx9dKLDDyLc1Ny{ChangeLine}{ChangeLine}Also Xer0 had an extra decimal place and posted after dr. I think the good doctor is the winner. Unless there's some objections I'll payout in an hour or so. Congratulations DB! {ChangeLine}{ChangeLine}{ChangeLine}Interestingly Rluner posted {ChangeLine}Quote428.01170{ChangeLine}1easywaytocollectaddressfromusersiwisheveryoneallthebestintheseforumshavefun before anyone so although it's an invalid entry kudos to him.{ChangeLine}{ChangeLine}edit:{ChangeLine}proof{ChangeLine}https://blockchain.info/tx/c72e60aedc2ec25933e01d9d99e25bfb0e04b3263b68e9baf6552d984c87ec15
+dr blowfin	179	November 18, 2013, 08:32:20 PM	0.1 BTC received.{ChangeLine}Thanks very much!{ChangeLine};
